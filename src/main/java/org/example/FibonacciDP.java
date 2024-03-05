@@ -19,3 +19,8 @@ public class FibonacciDP {
         System.out.println("Fibonacci(" + n + ") = " + result);
     }
 }
+
+//    Space Complexity O(n)
+//    Time Complexity  O(2^n)
+
+
